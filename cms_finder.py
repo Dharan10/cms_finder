@@ -85,7 +85,7 @@ def main():
    ╚═════╝ ╚═╝     ╚═╝ ╚═════╝ ╚══════╝ 
 
                   CmoSS Scanner
-             Author: A!Z3N | Made with Power
+             Author: A!Z3N(Dharan) | Made with Power
     Detect CMS and version information with ease
     """
     print(banner)
